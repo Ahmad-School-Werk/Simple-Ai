@@ -1,3 +1,3 @@
 # Simple-Ai
 Hallo
-/Oke
+-asdasdas
