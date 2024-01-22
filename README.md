@@ -1,1 +1,3 @@
 # Simple-Ai
+Hallo
+/Oke
